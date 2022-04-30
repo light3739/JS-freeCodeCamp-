@@ -1,0 +1,2 @@
+var myFirstName = "Max";
+var myLastName = "Anonym";
